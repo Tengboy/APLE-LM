@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "families": [
+    "snr",
+    "grid",
+    "aperture",
+    "range",
+    "rf",
+    "iterations",
+    "coverage"
+  ],
+  "expected_trials": 181000,
+  "completed_trials": 181000,
+  "failed_trials": 0,
+  "complete": true,
+  "reference_sized": true,
+  "threshold_m": 3,
+  "iteration_display_limit": 10,
+  "raw_iterations": 20,
+  "BCRB_definition": "Label follows the paper; full-sample mean of per-trial bounds, no explicit prior FIM",
+  "position_matching": "one-to-one minimum total squared distance",
+  "user_separation": "historical 2/Ns per axis, OR acceptance rule; not fixed across all groups",
+  "origin": "Accepted 1000-trial thesis experiments, exported 2026-10-04",
+  "kind": "reference",
+  "matlab_release": "2023b",
+  "figure_catalog_version": "0.2.1",
+  "main_figure_count": 8,
+  "figure_order": [
+    "M1 grid_precision_reliability",
+    "M2 snr_performance",
+    "M3 error_distribution",
+    "M4 array_grouping",
+    "M5 rf_precision_reliability",
+    "M6 distance_performance",
+    "M7 spatial_coverage",
+    "M8 iteration_behavior"
+  ],
+  "probability_interval_display": "none; Wilson bounds retained in CSV"
+}

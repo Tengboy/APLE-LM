@@ -1,0 +1,10 @@
+/runs/
+*.mat
+*.fig
+*.log
+*.asv
+*.m~
+*.autosave
+.DS_Store
+Thumbs.db
+*.zip

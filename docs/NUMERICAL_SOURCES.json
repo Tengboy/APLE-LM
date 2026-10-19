@@ -1,0 +1,278 @@
+[
+  {
+    "file": "src/MCRB_polor_obj_joint2_approx.m",
+    "source": "MCRB_polor_obj_joint2_approx.m",
+    "sha256": "1d8c64c16a7acddafb167100ca24feb1682fada7ae6b04d202d74b21718833fb",
+    "modification": "none"
+  },
+  {
+    "file": "src/MCRB_polor_obj_joint2_bias_new.m",
+    "source": "MCRB_polor_obj_joint2_bias_new.m",
+    "sha256": "c30e265ef653dcee52ae4114e6db757a5204c65d9a7c98e23869b9876ac9b79d",
+    "modification": "none"
+  },
+  {
+    "file": "src/MCRB_polor_obj_joint_approx.m",
+    "source": "MCRB_polor_obj_joint_approx.m",
+    "sha256": "824ca2f350de4e75c7c5768d2f135d24eecc1a2cef4a3fdc7761b3c4f0a14b47",
+    "modification": "none"
+  },
+  {
+    "file": "src/MCRB_polor_obj_joint_bias_new.m",
+    "source": "MCRB_polor_obj_joint_bias_new.m",
+    "sha256": "5be224c9f7af2c87caea55f4f94c3c9189be07b153c451cf6d3e062f0462a9cb",
+    "modification": "none"
+  },
+  {
+    "file": "src/add_noise.m",
+    "source": "add_noise.m",
+    "sha256": "43182ffd2b4b09e4e5379e9c3a6b7c70c062e904bf04371a45dcd80d606e0bbf",
+    "modification": "none"
+  },
+  {
+    "file": "src/armijo_part1.m",
+    "source": "armijo_part1.m",
+    "sha256": "74897269b08903a56cb36d45d9fe35e31a76f0130749319779f25d65e8380e71",
+    "modification": "none"
+  },
+  {
+    "file": "src/armijo_part2.m",
+    "source": "armijo_part2.m",
+    "sha256": "31c9d3bb96fa852ce530f61169c8cd460515283a557c2cc099b1d14256960413",
+    "modification": "none"
+  },
+  {
+    "file": "src/build_array_system.m",
+    "source": "experiments/array_scan/build_array_system.m",
+    "sha256": "627bf9ffbcf83974437b8b2ae15fc5a737ac7d2ec63a869138fe09ed9346a1a9",
+    "modification": "none"
+  },
+  {
+    "file": "src/cal_CRLB.m",
+    "source": "cal_CRLB.m",
+    "sha256": "923f8ee32ddd47bcd2fbccfdceba3c21180344b3c9dc3e5b150ee65148dd7fe1",
+    "modification": "none"
+  },
+  {
+    "file": "src/cal_CRLB_n.m",
+    "source": "cal_CRLB_n.m",
+    "sha256": "2983cd4a4d8a1b65e339be3d3b5ab4cccafd24a3f06b4cef99764caee8171bad",
+    "modification": "none"
+  },
+  {
+    "file": "src/cal_FIM.m",
+    "source": "cal_FIM.m",
+    "sha256": "16260c4733bdd37887d74fad0650970ab381114f5ad86231885c0345e851f335",
+    "modification": "none"
+  },
+  {
+    "file": "src/fig10_data.m",
+    "source": "experiments/figure10/fig10_data.m",
+    "sha256": "1e9e95b5a1726ca515e2711c7273aab4e4f6bb2a3b93458c3674b157978afc1f",
+    "modification": "none"
+  },
+  {
+    "file": "src/fig11_trace.m",
+    "source": "experiments/figure11/fig11_trace.m",
+    "sha256": "373fc8638b8b8fb1797eba8d59ae8210ea7ee07a8ae976ff83bc1be87a423b95",
+    "modification": "none"
+  },
+  {
+    "file": "src/fig5_estimate.m",
+    "source": "experiments/figure5/fig5_estimate.m",
+    "sha256": "5f36cd0c0297997a6a2bd3335fa5ee4116b9b576bfdb6b34cd598fec808d5985",
+    "modification": "none"
+  },
+  {
+    "file": "src/fig5_full_baseline.m",
+    "source": "experiments/paper_suite/fig5_full_baseline.m",
+    "sha256": "dc5d66d0a66e93c775934fc6349ca3d42cfa54d6e1ed0710891a55ad755da4b6",
+    "modification": "none"
+  },
+  {
+    "file": "src/fig5_full_data.m",
+    "source": "experiments/paper_suite/fig5_full_data.m",
+    "sha256": "5e45cea133eaf865c19bc989682c4cddf4c12dac91f5fe716d2a080511e9b209",
+    "modification": "none"
+  },
+  {
+    "file": "src/fig5_psigw.m",
+    "source": "experiments/paper_suite/fig5_psigw.m",
+    "sha256": "0a96f01842d9ac54e226b612b379f90856c11792c996b8c19bf9f2a1bfa34ec4",
+    "modification": "none"
+  },
+  {
+    "file": "src/fig6_channel_basis.m",
+    "source": "experiments/figure6/fig6_channel_basis.m",
+    "sha256": "0c96ecfd7aecbe6b383a099c73b25efc2a0f7dcd2f64697bd18691f7ba8aa907",
+    "modification": "none"
+  },
+  {
+    "file": "src/gene1_y.m",
+    "source": "gene1_y.m",
+    "sha256": "abf0c21d18284673250cf3677211ab157fea66bb6a259985748730d812fd63a3",
+    "modification": "none"
+  },
+  {
+    "file": "src/gene_H.m",
+    "source": "gene_H.m",
+    "sha256": "b42e823ff53090ee444cd54717d703f4a210aff5895cd4d7ce59172a06c3cfa5",
+    "modification": "none"
+  },
+  {
+    "file": "src/gene_pos.m",
+    "source": "gene_pos.m",
+    "sha256": "011034b22289e465eaba5c05c4e3e2e7edefadd83f41eb47c54b0ecf03426743",
+    "modification": "none"
+  },
+  {
+    "file": "src/gene_y.m",
+    "source": "gene_y.m",
+    "sha256": "a887203d12a9ba218025448b610db50a8ebe2f3451b160e97df3effbdac7f3dd",
+    "modification": "none"
+  },
+  {
+    "file": "src/grad_calculate_joint1.m",
+    "source": "grad_calculate_joint1.m",
+    "sha256": "87c7b77fbe4ad1ac5e78862b704832fdcd21eb077e46f9eef2cf8b1ac8561c7f",
+    "modification": "none"
+  },
+  {
+    "file": "src/grad_calculate_joint1_bias.m",
+    "source": "grad_calculate_joint1_bias.m",
+    "sha256": "b50ed21a650d36701f5e2423ca883488f19c317c500eacd88cdd9247537b4d04",
+    "modification": "none"
+  },
+  {
+    "file": "src/grad_calculate_joint2_bias.m",
+    "source": "grad_calculate_joint2_bias.m",
+    "sha256": "b4f106de8754572cfff133a1cda96fd6da6c4cd7a927e2f95dfe60d1c37709d5",
+    "modification": "none"
+  },
+  {
+    "file": "src/grad_calculate_joint2_new.m",
+    "source": "grad_calculate_joint2_new.m",
+    "sha256": "d8d1ffa8f6dd7e8709cfef6115b920835227017420524a954d0f60dd9b503bea",
+    "modification": "none"
+  },
+  {
+    "file": "src/grad_numerical_vec.m",
+    "source": "grad_numerical_vec.m",
+    "sha256": "0e22cf3552fcb2affcbf831f853b661c70dacfa3d188ddb8a4b16dfbf52d2053",
+    "modification": "none"
+  },
+  {
+    "file": "src/hess_calculate_joint1.m",
+    "source": "hess_calculate_joint1.m",
+    "sha256": "41ef63ba35b6a02f16473bdfb3c5141366317409e4846717dba9b167ebc10a58",
+    "modification": "none"
+  },
+  {
+    "file": "src/hess_calculate_joint1_bias.m",
+    "source": "hess_calculate_joint1_bias.m",
+    "sha256": "a19c62e32661fc61802c05ca96effc0dc52bc1f22c330ab24244ae05c51fbd83",
+    "modification": "none"
+  },
+  {
+    "file": "src/hess_calculate_joint2_bias.m",
+    "source": "hess_calculate_joint2_bias.m",
+    "sha256": "b7a13b93bf3755b84cf8d9344001eda758405f6bd349c39954eebc56e1d3b001",
+    "modification": "none"
+  },
+  {
+    "file": "src/hess_calculate_joint2_new.m",
+    "source": "hess_calculate_joint2_new.m",
+    "sha256": "5143cf64054c4cce92a994110e0fc6c802aad55795b1492a4e52d0f7eff8ab1c",
+    "modification": "none"
+  },
+  {
+    "file": "src/hessian_from_gradient.m",
+    "source": "hessian_from_gradient.m",
+    "sha256": "149241499fdca87304eae837305bc901db1e59123fa21635986681b7271b65f7",
+    "modification": "none"
+  },
+  {
+    "file": "src/match_user_positions.m",
+    "source": "match_user_positions.m",
+    "sha256": "2e21f0d26e027183093255e70610b1f1d81b45672e77a05add9248f464a398dc",
+    "modification": "none"
+  },
+  {
+    "file": "src/pos_coarse_appro_est.m",
+    "source": "pos_coarse_appro_est.m",
+    "sha256": "961d072eb254f261365f02479be5b5179caa63d19409082e37b5fdf40a039c71",
+    "modification": "none"
+  },
+  {
+    "file": "src/pos_coarse_appro_est_joint.m",
+    "source": "pos_coarse_appro_est_joint.m",
+    "sha256": "d97f4659d03f5c9e4df59cddbd8980aa62f8e68715bbaf2f867dc73d664ad13c",
+    "modification": "none"
+  },
+  {
+    "file": "src/pos_coarse_est.m",
+    "source": "pos_coarse_est.m",
+    "sha256": "7e853d155bfe4b9c7a05aac7d90db700021834224ae2fdc2728a64ae631bac9d",
+    "modification": "none"
+  },
+  {
+    "file": "src/pos_coarse_est_joint.m",
+    "source": "pos_coarse_est_joint.m",
+    "sha256": "ba8b617d244b28ae11c32f4012298bbf80dc1bb7cd7837b586d4c937924ffef4",
+    "modification": "none"
+  },
+  {
+    "file": "src/pos_comb_est.m",
+    "source": "pos_comb_est.m",
+    "sha256": "bc965940b321673c893e4b43ef645aa87ec4971327ba92c8231197539339d3a0",
+    "modification": "none"
+  },
+  {
+    "file": "src/pos_fine_appro_est.m",
+    "source": "pos_fine_appro_est.m",
+    "sha256": "18f4e710ff7b4184cf4bb2674793e1b85d1de68a598473ed8116584e83a1f2fb",
+    "modification": "none"
+  },
+  {
+    "file": "src/pos_fine_est.m",
+    "source": "pos_fine_est.m",
+    "sha256": "2792764ce43f7d5ed4c0b0e4728acbfcfc8553c488a62331210b90a4fccb3fc5",
+    "modification": "none"
+  },
+  {
+    "file": "src/pos_ini_appro_est.m",
+    "source": "pos_ini_appro_est.m",
+    "sha256": "6ed0de04029b1ef21f4e095872d8c3a7008f2643440580334c5feced9bd26357",
+    "modification": "none"
+  },
+  {
+    "file": "src/pos_ini_est.m",
+    "source": "pos_ini_est.m",
+    "sha256": "38099274e35fc59fe94e7edfdc2ee87391b4ca0a988e6baa2ca41fe4d8915da0",
+    "modification": "none"
+  },
+  {
+    "file": "src/prepare_grid_dictionary.m",
+    "source": "prepare_grid_dictionary.m",
+    "sha256": "ae36fff022cb4f9f411607a16339a6d5e737ac95e03c49f143dc30dc4bec4614",
+    "modification": "none"
+  },
+  {
+    "file": "src/rho_appro_est.m",
+    "source": "rho_appro_est.m",
+    "sha256": "485a78113c0bb4691a77fbb878c511413c4e329ff5d84c469729a3fb9570d402",
+    "modification": "none"
+  },
+  {
+    "file": "src/rho_est.m",
+    "source": "rho_est.m",
+    "sha256": "bb8469ef41360f8b0310fb17152cabfac0b1de33a4021b85ce66c75dfd8d6c10",
+    "modification": "none"
+  },
+  {
+    "file": "src/subarray_steering.m",
+    "source": "subarray_steering.m",
+    "sha256": "91ac05ac0f9f9c78529e22e7a51f24ec206357285d1549cda62cb4f5922c6964",
+    "modification": "none"
+  }
+]

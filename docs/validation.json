@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-04",
+  "matlab_release": "R2023b",
+  "platform": "Windows",
+  "unit_tests": {
+    "passed": 8,
+    "failed": 0,
+    "names": [
+      "test_release/testPublicAPIExists",
+      "test_release/testCanonicalCases",
+      "test_release/testCheckpointIdentityAndRecovery",
+      "test_release/testConditionalStatisticsKeepFailures",
+      "test_release/testExclusiveRunLock",
+      "test_release/testThreadPolicyReproducesStressCase",
+      "test_release/testPartialIterationPlot",
+      "test_release/testPlotRespectsRunLock"
+    ]
+  },
+  "paired_cases": [
+    {
+      "family": "snr",
+      "case": 1,
+      "seed": 1,
+      "metric_count": 24,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 49.0480527
+    },
+    {
+      "family": "grid",
+      "case": 1,
+      "seed": 1,
+      "metric_count": 3,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 12.5332905
+    },
+    {
+      "family": "grid",
+      "case": 7,
+      "seed": 1,
+      "metric_count": 3,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 17.8939989
+    },
+    {
+      "family": "aperture",
+      "case": 4,
+      "seed": 1,
+      "metric_count": 6,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 34.0967196
+    },
+    {
+      "family": "range",
+      "case": 3,
+      "seed": 1,
+      "metric_count": 6,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 18.3506654
+    },
+    {
+      "family": "rf",
+      "case": 6,
+      "seed": 1,
+      "metric_count": 1,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 2.0931623
+    },
+    {
+      "family": "rf",
+      "case": 11,
+      "seed": 1,
+      "metric_count": 1,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 18.8511292
+    },
+    {
+      "family": "iterations",
+      "case": 1,
+      "seed": 1,
+      "metric_count": 20,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 5.4028463
+    },
+    {
+      "family": "iterations",
+      "case": 2,
+      "seed": 1,
+      "metric_count": 20,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 5.2109199
+    },
+    {
+      "family": "coverage",
+      "case": 1,
+      "seed": 1,
+      "metric_count": 1,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 3.1244657
+    },
+    {
+      "family": "coverage",
+      "case": 72,
+      "seed": 1,
+      "metric_count": 1,
+      "max_scaled_mse_difference": 0,
+      "max_rms_difference_m": 0,
+      "bound_difference": 0,
+      "channel_difference": 0,
+      "seconds": 3.4639433
+    }
+  ],
+  "runner_integration": {
+    "resume": true,
+    "completed_jobs_skipped": true,
+    "identity_rejected": true,
+    "partial_plot_rejected": true,
+    "parallel_checked": true,
+    "trial_count": 2,
+    "checkpoint_files": 2,
+    "checkpoint_bytes": 7259
+  },
+  "unchanged_numerical_sources": 46,
+  "isolated_dependency_check": true,
+  "full_simulations_rerun": false,
+  "fresh_review": "Two plotting findings addressed by RED/GREEN regressions; no deferred finding",
+  "numerical_validation_version": "0.1.0; numerical source hashes unchanged in 0.2.0",
+  "historical_figure_objects_v01": [
+    {
+      "figure": "M1_snr_performance.fig",
+      "curve_or_image_count": 10,
+      "max_scaled_difference": 2.8743145465047056e-15,
+      "empty_titles": true
+    },
+    {
+      "figure": "M2_error_distribution.fig",
+      "curve_or_image_count": 8,
+      "max_scaled_difference": 4.660347229902989e-15,
+      "empty_titles": true
+    },
+    {
+      "figure": "M3_grid_precision_reliability.fig",
+      "curve_or_image_count": 12,
+      "max_scaled_difference": 2.1638507587323053e-14,
+      "empty_titles": true
+    },
+    {
+      "figure": "M4_aperture_distance.fig",
+      "curve_or_image_count": 16,
+      "max_scaled_difference": 3.5045644587468742e-15,
+      "empty_titles": true
+    },
+    {
+      "figure": "M5_rf_precision_reliability.fig",
+      "curve_or_image_count": 8,
+      "max_scaled_difference": 3.914729941280535e-14,
+      "empty_titles": true
+    },
+    {
+      "figure": "M6_iteration_behavior.fig",
+      "curve_or_image_count": 2,
+      "max_scaled_difference": 4.996003610813204e-16,
+      "empty_titles": true
+    },
+    {
+      "figure": "M7_spatial_coverage.fig",
+      "curve_or_image_count": 2,
+      "max_scaled_difference": 4.996003610813204e-16,
+      "empty_titles": true
+    }
+  ],
+  "historical_standalone_archive_check_v01": {
+    "tests_passed": 8,
+    "new_trial_valid": true,
+    "standalone_paths": true,
+    "reference_plots": 7,
+    "chinese_plots": 2,
+    "matlab_release": "2023b"
+  },
+  "figure_revision_v02": {
+    "main_figures": 8,
+    "old_curve_image_objects_preserved": 58,
+    "new_horizontal_bounds": [
+      0.0537883867232814,
+      0.148783633769351
+    ],
+    "max_scaled_value_difference": 3.914729941280535e-14,
+    "legends_opaque_with_border": 10,
+    "grid_panels": 2,
+    "iteration_size_cm": [
+      11.5,
+      11.5
+    ],
+    "iteration_limit": 10,
+    "array_grouping_separate": true,
+    "data_regenerated": false,
+    "version": "0.2.0",
+    "numerical_sources_unchanged": 46,
+    "reference_csv_sha256": {
+      "summary.csv": "74fbcaa4a2847e99dad2f8fdd3b1940a8176159421d52ba1c9e7fea0b833acbd",
+      "cdf.csv": "8af31205cb8f6046d8fdeb705b33747f29f90fd9ca0b3b093a8f84022418d025"
+    },
+    "unit_tests": {
+      "passed": 8,
+      "failed": 0
+    }
+  },
+  "standalone_archive_check_v02": {
+    "version": "0.2.0",
+    "matlab_release": "2023b",
+    "archive_extraction": true,
+    "release_paths_isolated": true,
+    "release_reference_figures": 8,
+    "thesis_self_contained": true,
+    "thesis_figures": 10,
+    "estimator_called": false,
+    "redrawn_axes_match": true,
+    "figure_comparisons": 16
+  },
+  "presentation_revision_v021": {
+    "date": "2026-10-05",
+    "version": "0.2.1",
+    "figures": [
+      "M1",
+      "M5"
+    ],
+    "curves_preserved_exactly": 22,
+    "probability_curves_without_intervals": 9,
+    "errorbar_objects": 0,
+    "axis_limits_unchanged": true,
+    "legends_opaque_with_border": true,
+    "formal_experiments_rerun": false,
+    "reference_csv_sha256": {
+      "summary.csv": "74fbcaa4a2847e99dad2f8fdd3b1940a8176159421d52ba1c9e7fea0b833acbd",
+      "cdf.csv": "8af31205cb8f6046d8fdeb705b33747f29f90fd9ca0b3b093a8f84022418d025"
+    },
+    "numerical_sources_unchanged": 46
+  }
+}
