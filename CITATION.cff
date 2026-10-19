@@ -1,29 +1,34 @@
 cff-version: 1.2.0
-message: "If you use APLE-LM in research, please cite the associated paper below."
+message: If you use APLE-LM in research, please cite the associated paper below.
 type: software
-title: "APLE-LM: Reproducible MATLAB Experiments"
+title: 'APLE-LM: Reproducible MATLAB Experiments'
 version: 0.2.1
-date-released: 2026-10-05
+date-released: '2026-10-05'
 license: MIT
 authors:
-  - family-names: Teng
-    given-names: Boyu
+- family-names: Teng
+  given-names: Boyu
 preferred-citation:
   type: article
-  title: "Near-Field Multiuser Localization Based on Extremely Large Antenna Array With Limited RF Chains"
+  title: Near-Field Multiuser Localization Based on Extremely Large Antenna Array With Limited RF Chains
   authors:
-    - family-names: Teng
-      given-names: Boyu
-    - family-names: Yuan
-      given-names: Xiaojun
-    - family-names: Wang
-      given-names: Rui
-    - family-names: Liang
-      given-names: Ying-Chang
-    - family-names: Huang
-      given-names: Xinming
+  - family-names: Teng
+    given-names: Boyu
+  - family-names: Yuan
+    given-names: Xiaojun
+  - family-names: Wang
+    given-names: Rui
+  - family-names: Liang
+    given-names: Ying-Chang
+  - family-names: Huang
+    given-names: Xinming
   journal: IEEE Transactions on Wireless Communications
+  year: 2025
   volume: 24
   issue: 12
-  year: 2025
+  start: 10211
+  end: 10226
+  month: 12
   doi: 10.1109/TWC.2025.3578399
+  url: https://ieeexplore.ieee.org/abstract/document/11078772
+repository-code: https://github.com/Tengboy/APLE-LM

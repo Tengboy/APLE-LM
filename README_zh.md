@@ -1,6 +1,6 @@
 # APLE-LM 开源复现代码
 
-[English](README.md) · [MIT 许可证](LICENSE) · [论文引用](CITATION.cff)
+[English](README.md) · [MIT 许可证](LICENSE) · [论文引用](#论文引用)
 
 本包覆盖目前选定的博士论文正文图 M1–M8。采用已审查的定位数值实现，
 保留低网格、低 RF 链等压力场景中的真实失败结果。软件作者署名为 **Boyu Teng**；
@@ -88,3 +88,26 @@ assert(all([results.Passed]));
 
 [验证说明](docs/VALIDATION.md) 区分本次实际执行的抽样回归与此前完整的 1000 次参考结果。
 许可证为 MIT，版权行使用 `Copyright (c) 2026 Boyu Teng`。
+
+## 论文引用
+
+如果本代码或实验结果对您的研究有帮助，请引用对应的原始论文：
+
+Boyu Teng, Xiaojun Yuan, Rui Wang, Ying-Chang Liang, Xinming Huang, “Near-Field Multiuser Localization Based on Extremely Large Antenna Array With Limited RF Chains,” *IEEE Transactions on Wireless Communications*, vol. 24, no. 12, pp. 10211–10226, Dec. 2025. [DOI: 10.1109/TWC.2025.3578399](https://doi.org/10.1109/TWC.2025.3578399).
+
+[IEEE Xplore 原文](https://ieeexplore.ieee.org/abstract/document/11078772) · [下载 BibTeX](CITATION.bib) · [GitHub 引用元数据](CITATION.cff)
+
+```bibtex
+@article{Teng2025APLELM,
+  author  = {Teng, Boyu and Yuan, Xiaojun and Wang, Rui and Liang, Ying-Chang and Huang, Xinming},
+  title   = {{Near-Field Multiuser Localization Based on Extremely Large Antenna Array With Limited RF Chains}},
+  journal = {IEEE Transactions on Wireless Communications},
+  year    = {2025},
+  volume  = {24},
+  number  = {12},
+  pages   = {10211--10226},
+  month   = {12},
+  doi     = {10.1109/TWC.2025.3578399},
+  url     = {https://ieeexplore.ieee.org/abstract/document/11078772}
+}
+```
